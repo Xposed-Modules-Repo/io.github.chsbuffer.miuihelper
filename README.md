@@ -23,8 +23,6 @@
   - 截图保存到 Pictures/Screenshots
 - 屏幕录制
   - 视频保存到 Movies/ScreenRecorder
-- 系统界面
-  - 恢复 Android 12 的 SplashScreen（来自 RestoreSplashScreen 最初版本）
 - 小爱翻译
   - 启用 AI字幕（只能识别翻译中文、英文）
 - 系统更新
