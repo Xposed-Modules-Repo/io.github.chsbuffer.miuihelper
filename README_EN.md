@@ -19,12 +19,12 @@ Features' summary can be found in the module settings.
   - Lock 100 points
 - System Launcher
   - Prevent the System Launcher from hiding the Google shortcut (for MIUI CN)
+- SystemUI
+  - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile
 - Screenshot
   - Save screenshots to Pictures/Screenshots
 - ScreenRecorder
   - Save videos to Movies/ScreenRecorder
-- SystemUI
-  - Restore Android 12 SplashScreen
 - Mi AI Translator
   - Force support AI subtitles (Can only translate or transcribe Chinese and English)
 - Updater
