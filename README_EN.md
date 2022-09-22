@@ -15,6 +15,7 @@ Features' summary can be found in the module settings.
 - Security app
   - App behavior record enhance
   - System apps' WLAN setting
+  - Change App Info "Clear defaults" to "Open by default"
   - Skip warning time
   - Lock 100 points
 - System Launcher
