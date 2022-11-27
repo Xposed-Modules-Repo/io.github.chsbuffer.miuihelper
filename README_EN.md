@@ -21,7 +21,8 @@ Features' summary can be found in the module settings.
 - System Launcher
   - Prevent the System Launcher from hiding the Google shortcut (for MIUI CN)
 - SystemUI
-  - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile
+  - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile (for MIUI CN)
+  - Remove notification settings whitelist (for MIUI CN)
 - Screenshot
   - Save screenshots to Pictures/Screenshots
 - ScreenRecorder
