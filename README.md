@@ -30,4 +30,4 @@
 - 小爱翻译
   - 启用 AI字幕（只能识别翻译中文、英文）
 - 系统更新
-  - 移除OTA验证（同 WooBox for MIUI 移除 OTA 验证，建议优先使用 WooBox for MIUI 的该功能）
+  - 移除OTA验证（同 WooBox for MIUI 移除 OTA 验证）
