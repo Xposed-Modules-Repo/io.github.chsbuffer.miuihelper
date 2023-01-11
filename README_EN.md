@@ -7,13 +7,15 @@
 </div>
 
 ## Description
-The module is only tested on MIUI 13 Android 12 China with LSPosed Framework。
 
-Features' summary can be found in the module settings.
+The module support from MIUI 12 to MIUI 14. Feature summary can be found in the module settings.
+
+⭐ Proudly powered by [DexKit](https://luckypray.org/DexKit/en/)
 
 ## Features
 - Security app
   - App behavior record enhance
+  - Force enable App behavior
   - System apps' WLAN setting
   - Change App Info "Clear defaults" to "Open by default"
   - Skip warning time
@@ -21,12 +23,13 @@ Features' summary can be found in the module settings.
 - System Launcher
   - Prevent the System Launcher from hiding the Google shortcut (for MIUI CN)
 - SystemUI
-  - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile (for MIUI CN)
+  - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile
   - Remove notification settings whitelist (for MIUI CN)
 - Screenshot
   - Save screenshots to Pictures/Screenshots
 - ScreenRecorder
   - Save videos to Movies/ScreenRecorder
+  - Force enable Native Audio Recorder
 - Mi AI Translator
   - Force support AI subtitles (Can only translate or transcribe Chinese and English)
 - Updater

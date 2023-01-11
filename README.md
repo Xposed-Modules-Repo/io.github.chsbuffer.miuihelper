@@ -7,9 +7,10 @@
 </div>
 
 ## 模块说明
-此模块仅在 MIUI 13 (Android 12) LSPosed 框架的设备上进行了测试
 
-功能的详细描述可在模块设置内查看
+此模块支持 MIUI 12 ~ MIUI 14 ，功能的详细描述可在模块设置内查看。
+
+⭐ 本模块自豪地使用了 [DexKit](https://luckypray.org/DexKit/zh-cn/)
 
 ## 模块功能
 - 手机管家
@@ -27,6 +28,7 @@
   - 截图保存到 Pictures/Screenshots
 - 屏幕录制
   - 视频保存到 Movies/ScreenRecorder
+  - 强制启用原生录音支持
 - 小爱翻译
   - 启用 AI字幕（只能识别翻译中文、英文）
 - 系统更新
