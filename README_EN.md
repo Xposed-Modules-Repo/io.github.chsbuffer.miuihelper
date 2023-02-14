@@ -25,6 +25,7 @@ The module support from MIUI 12 to MIUI 14. Feature summary can be found in the 
 - SystemUI
   - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile
   - Remove notification settings whitelist (for MIUI CN)
+  - Notification more info redirect to notification channel settings
 - Screenshot
   - Save screenshots to Pictures/Screenshots
 - ScreenRecorder
