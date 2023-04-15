@@ -22,6 +22,8 @@ The module support from MIUI 12 to MIUI 14. Feature summary can be found in the 
   - Lock 100 points
 - System Launcher
   - Prevent the System Launcher from hiding the Google shortcut (for MIUI CN)
+  - Replace App Vault into Google Feed (for MIUI CN)
+  - Search bar opens Google Search
 - SystemUI
   - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile
   - Remove notification settings whitelist (for MIUI CN)
