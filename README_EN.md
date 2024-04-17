@@ -8,32 +8,33 @@
 
 ## Description
 
-The module support from MIUI 12 to MIUI 14. Feature summary can be found in the module settings.
+The module support MIUI 12~14 and HyperOS . Feature details can be found in the module settings.
 
 ⭐ Proudly powered by [DexKit](https://luckypray.org/DexKit/en/)
 
 ## Features
 - Security app
-  - App behavior record enhance
-  - Force enable App behavior
-  - System apps' WLAN setting
-  - Change App Info "Clear defaults" to "Open by default"
+  - Enable App Behavior Record (on Global ROM)
+  - App Behavior Record includes System apps' records (no more needed for HyperOS)
+  - Allow change System apps' WLAN setting
+  - Replace App Info "Clear defaults" with "Open by default" setting
   - Skip warning time
   - Lock 100 points
 - System Launcher
-  - Prevent the System Launcher from hiding the Google shortcut (for MIUI CN)
-  - Replace App Vault into Google Feed (for MIUI CN)
-  - Search bar opens Google Search
+  - Don't hide Google app shortcut (on China ROM)
+  - Force Enable -1 Screen Switcher (between App Vault and Google Feed) (on China ROM)
+  - Replace Global Search with Google Search
 - SystemUI
-  - Prevent the SystemUI from hiding the Nearby Sharing Quick Settings Tile
-  - Remove notification settings whitelist (for MIUI CN)
-  - Notification more info redirect to notification channel settings
+  - Don't hide Nearby Sharing Quick Settings Tile
+  - Don't hide Google wallet Tile
+  - Remove notification settings whitelist (on China ROM)
+  - Notification more info redirect to notification channel settings (broken on Android 14)
 - Screenshot
   - Save screenshots to Pictures/Screenshots
 - ScreenRecorder
   - Save videos to Movies/ScreenRecorder
   - Force enable Native Audio Recorder
 - Mi AI Translator
-  - Force support AI subtitles (Can only translate or transcribe Chinese and English)
+  - Force enable AI subtitles (Can only translate or transcribe Chinese and English)
 - Updater
   - Remove OTA validate
