@@ -8,33 +8,39 @@
 
 ## Description
 
-The module support MIUI 12~14 and HyperOS . Feature details can be found in the module settings.
+This module improves my experience of MIUI 12 to 14 and HyperOS. Details about each feature are in the module's settings.
 
-⭐ Proudly powered by [DexKit](https://luckypray.org/DexKit/en/)
+⭐ Proudly powered by [DexKit](https://luckypray.org/DexKit/en/), a high-performance dex runtime parsing library.
 
 ## Features
 - Security app
-  - Enable App Behavior Record (on Global ROM)
-  - App Behavior Record includes System apps' records (no more needed for HyperOS)
-  - Allow change System apps' WLAN setting
+  - Enable "App Behavior Record" (on Global ROM)
+  - "App Behavior Record" includes System apps' records (no more needed for HyperOS)
+  - Allow restrict System apps' WLAN usage
   - Replace App Info "Clear defaults" with "Open by default" setting
-  - Skip warning time
-  - Lock 100 points
+  - Ignore the countdown and click 'confirm' to skip the risky setting warning page.
+  - Banner score lock at 100 points
 - System Launcher
-  - Don't hide Google app shortcut (on China ROM)
-  - Force Enable -1 Screen Switcher (between App Vault and Google Feed) (on China ROM)
-  - Replace Global Search with Google Search
+  - Don't hide Google App shortcut (on China ROM)¹
+  - Enable "-1 Screen Picker" (between "App Vault" and "Google Feed") (on China ROM)¹
+  - Replace "Global Search" with "Google Search"¹
 - SystemUI
-  - Don't hide Nearby Sharing Quick Settings Tile
-  - Don't hide Google wallet Tile
+  - Don't hide "Nearby Sharing" from Control Center²
+  - Don't hide "Google Wallet" from Control Center²
   - Remove notification settings whitelist (on China ROM)
-  - Notification more info redirect to notification channel settings (broken on Android 14)
+  - Notification's "More Info" redirect to the corresponding notification channel setting (broken on Android 14)
 - Screenshot
-  - Save screenshots to Pictures/Screenshots
+  - Save screenshots to `Pictures/Screenshots`
 - ScreenRecorder
-  - Save videos to Movies/ScreenRecorder
-  - Force enable Native Audio Recorder
+  - Save videos to `Movies/ScreenRecorder`
+  - Force enable "Native Audio Recorder"
 - Mi AI Translator
-  - Force enable AI subtitles (Can only translate or transcribe Chinese and English)
+  - Force enable AI subtitles (which can translate or transcribe between Chinese and English)
 - Updater
   - Remove OTA validate
+
+Notes:
+
+1. [Google App](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) is required.
+2. On China ROM, some features of Google Mobile Services are disabled. To use these features, System modification is required. Refer to Unlock CN GMS
+ Magisk Module: [https://github.com/fei-ke/unlock-cn-gms](https://github.com/fei-ke/unlock-cn-gms) for more information.
