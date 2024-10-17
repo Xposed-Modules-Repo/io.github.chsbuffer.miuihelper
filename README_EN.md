@@ -28,7 +28,7 @@ This module improves my experience of MIUI 12 to 14 and HyperOS. Details about e
   - Don't hide "Nearby Sharing" from Control Center²
   - Don't hide "Google Wallet" from Control Center²
   - Remove notification settings whitelist (on China ROM)
-  - Notification's "More Info" redirect to the corresponding notification channel setting (broken on Android 14)
+  - Notification's "More Info" redirect to the corresponding notification channel setting
 - Screenshot
   - Save screenshots to `Pictures/Screenshots`
 - ScreenRecorder
